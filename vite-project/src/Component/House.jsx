@@ -9,7 +9,7 @@ import React from 'react';
  * @param {string} [props.address="123 Main St"] - The address of the house.
  * @param {string} [props.color="White"] - The color of the house.
  * @param {number} [props.bedrooms=3] - The number of bedrooms in the house.
- * @returns {JSX.Element} The rendered house component.
+//  * @returns {JSX.Element} The rendered house component.
  */
 function House({ address = "123 Main St", color = "White", bedrooms = 3 }) {
   return (
